@@ -11,16 +11,13 @@
   "fonts/Oswald-regular.ttf": "fonts/Oswald-regular.8573096c5e435cde244a0483601020a2.ttf",
   "fonts/Oswald-regular.woff": "fonts/Oswald-regular.4cd42bac8ebc77f27c60ce7ffe3bb975.woff",
   "fonts/Oswald-regular.woff2": "fonts/Oswald-regular.29b3a057ac523422b12afa8f7cf692f7.woff2",
-  "fonts/slick.eot": "fonts/slick.ced611daf7709cc778da928fec876475.eot",
-  "fonts/slick.ttf": "fonts/slick.d41f55a78e6f49a5512878df1737e58a.ttf",
-  "fonts/slick.woff": "fonts/slick.b7c9e1e479de3b53f1e4e30ebac2403a.woff",
-  "main.css": "static/css/main.e0f61543.css",
-  "main.css.map": "static/css/main.e0f61543.css.map",
-  "main.js": "static/js/main.4538a2ad.js",
-  "main.js.map": "static/js/main.4538a2ad.js.map",
+  "main.css": "static/css/main.249d275a.css",
+  "main.css.map": "static/css/main.249d275a.css.map",
+  "main.js": "static/js/main.932fe4e1.js",
+  "main.js.map": "static/js/main.932fe4e1.js.map",
   "static/media/Open-Sans-regular.svg": "static/media/Open-Sans-regular.7e735d7a.svg",
   "static/media/Oswald-300.svg": "static/media/Oswald-300.fe401aad.svg",
   "static/media/Oswald-regular.svg": "static/media/Oswald-regular.48b6c164.svg",
-  "static/media/demo.gif": "static/media/demo.5b5f0ad4.gif",
-  "static/media/slick.svg": "static/media/slick.f97e3bbf.svg"
+  "static/media/card.jpg": "static/media/card.8dfae81a.jpg",
+  "static/media/demo.gif": "static/media/demo.5b5f0ad4.gif"
 }
